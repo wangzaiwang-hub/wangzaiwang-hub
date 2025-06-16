@@ -99,9 +99,46 @@
 ---
 
 <h3 align="center" style="color:#00fff0;">🏆 成就徽章 | Achievements</h3>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wangzaiwang-hub&theme=dracula&no-frame=true&margin-w=10" alt="Trophy"/>
-</p>
+
+<div align="center">
+  <picture>
+    <source 
+      srcset="https://github-profile-trophy.vercel.app/?username=wangzaiwang-hub&theme=transparent&no-frame=true&title_color=00fff0&text_color=ff00cc&icon_color=00fff0&bg_color=00000000&margin-w=15&margin-h=15&column=-1"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-profile-trophy.vercel.app/?username=wangzaiwang-hub&theme=transparent&no-frame=true&title_color=00fff0&text_color=ff00cc&icon_color=00fff0&bg_color=ffffff&margin-w=15&margin-h=15&column=-1"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=wangzaiwang-hub&theme=transparent&no-frame=true&title_color=00fff0&text_color=ff00cc&icon_color=00fff0&margin-w=15&margin-h=15&column=-1" />
+  </picture>
+</div>
+
+<div align="center">
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=wangzaiwang-hub&repo=WETools&theme=transparent&hide_border=true&title_color=00fff0&text_color=ff00cc&icon_color=00fff0&bg_color=00000000"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=wangzaiwang-hub&repo=WETools&theme=transparent&hide_border=true&title_color=00fff0&text_color=ff00cc&icon_color=00fff0&bg_color=ffffff"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=wangzaiwang-hub&repo=WETools&theme=transparent&hide_border=true&title_color=00fff0&text_color=ff00cc&icon_color=00fff0" />
+  </picture>
+
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=wangzaiwang-hub&repo=49game&theme=transparent&hide_border=true&title_color=00fff0&text_color=ff00cc&icon_color=00fff0&bg_color=00000000"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=wangzaiwang-hub&repo=49game&theme=transparent&hide_border=true&title_color=00fff0&text_color=ff00cc&icon_color=00fff0&bg_color=ffffff"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=wangzaiwang-hub&repo=49game&theme=transparent&hide_border=true&title_color=00fff0&text_color=ff00cc&icon_color=00fff0" />
+  </picture>
+</div>
 
 ---
 
