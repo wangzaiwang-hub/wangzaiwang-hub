@@ -43,26 +43,58 @@
 
 ---
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://camo.githubusercontent.com/157dae88753bded71e9116684a6d0bc2f184160165b92fd163f4c3f3c1df0441/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d77616e677a616977616e672d6875622673686f775f69636f6e733d74727565267468656d653d7261646963616c267469746c655f636f6c6f723d3030666666302669636f6e5f636f6c6f723d66663030636326746578745f636f6c6f723d6666662662675f636f6c6f723d32323232336226686964655f626f726465723d74727565" height="180"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangzaiwang-hub&layout=donut&theme=radical&title_color=ff00cc&text_color=fff&bg_color=22223b" height="180"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=wangzaiwang-hub&theme=react-dark&color=ff00cc&line=00fff0&point=ffe600&bg_color=22223b" height="180"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=wangzaiwang-hub&theme=radical&hide_border=true&background=22223b" height="180"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=wangzaiwang-hub&show_icons=true&theme=transparent&hide_border=true&title_color=00fff0&text_color=ff00cc&icon_color=00fff0&bg_color=00000000"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=wangzaiwang-hub&show_icons=true&theme=transparent&hide_border=true&title_color=00fff0&text_color=ff00cc&icon_color=00fff0&bg_color=ffffff"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=wangzaiwang-hub&show_icons=true&theme=transparent&hide_border=true&title_color=00fff0&text_color=ff00cc&icon_color=00fff0" />
+  </picture>
+  <picture>
+    <source 
+      srcset="https://github-readme-streak-stats.herokuapp.com?user=wangzaiwang-hub&theme=transparent&hide_border=true&ring=00FFF0&fire=FF00CC&currStreakNum=FF00CC&sideNums=00FFF0&currStreakLabel=FF00CC&sideLabels=00FFF0&dates=FF00CC&stroke=00FFF0"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-streak-stats.herokuapp.com?user=wangzaiwang-hub&theme=transparent&hide_border=true&ring=00FFF0&fire=FF00CC&currStreakNum=FF00CC&sideNums=00FFF0&currStreakLabel=FF00CC&sideLabels=00FFF0&dates=FF00CC&stroke=00FFF0&background=FFFFFF"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=wangzaiwang-hub&theme=transparent&hide_border=true&ring=00FFF0&fire=FF00CC&currStreakNum=FF00CC&sideNums=00FFF0&currStreakLabel=FF00CC&sideLabels=00FFF0&dates=FF00CC&stroke=00FFF0" />
+  </picture>
+</div>
+
+<div align="center">
+  <picture>
+    <source 
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=wangzaiwang-hub&theme=transparent&hide_border=true&area=true&area_color=00fff0&point=ff00cc&line=00fff0&title_color=00fff0&color=ff00cc"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=wangzaiwang-hub&theme=transparent&hide_border=true&area=true&area_color=00fff0&point=ff00cc&line=00fff0&title_color=00fff0&color=ff00cc&bg_color=ffffff"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=wangzaiwang-hub&theme=transparent&hide_border=true&area=true&area_color=00fff0&point=ff00cc&line=00fff0&title_color=00fff0&color=ff00cc" />
+  </picture>
+</div>
+
+<div align="center">
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wangzaiwang-hub&layout=compact&theme=transparent&hide_border=true&title_color=00fff0&text_color=ff00cc&icon_color=00fff0&bg_color=00000000"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wangzaiwang-hub&layout=compact&theme=transparent&hide_border=true&title_color=00fff0&text_color=ff00cc&icon_color=00fff0&bg_color=ffffff"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangzaiwang-hub&layout=compact&theme=transparent&hide_border=true&title_color=00fff0&text_color=ff00cc&icon_color=00fff0" />
+  </picture>
+</div>
 
 ---
 
