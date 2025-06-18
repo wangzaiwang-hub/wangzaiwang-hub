@@ -128,17 +128,7 @@
 
 ---
 <p align="center">
-  <picture>
-    <source
-      srcset="https://raw.githubusercontent.com/wangzaiwang-hub/wangzaiwang-hub/output/github-snake-dark.svg"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://raw.githubusercontent.com/wangzaiwang-hub/wangzaiwang-hub/output/github-snake-light.svg"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://raw.githubusercontent.com/wangzaiwang-hub/wangzaiwang-hub/output/github-snake-light.svg" alt="github contribution snake"/>
-  </picture>
+  <img src="https://raw.githubusercontent.com/wangzaiwang-hub/wangzaiwang-hub/output/github-snake.gif" alt="github contribution snake"/>
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=wangzaiwang-hub&style=flat-square" alt="Profile Views"/>
