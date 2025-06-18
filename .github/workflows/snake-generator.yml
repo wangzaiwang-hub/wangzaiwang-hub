@@ -2,28 +2,25 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # 每 12 小时运行一次
-  workflow_dispatch: # 允许手动触发
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # 授予内容写入权限
+      contents: write
     steps:
       - uses: actions/checkout@v4
 
-      # 生成贪吃蛇 SVG，并为亮色和暗色模式分别精确指定颜色
+      # 仅生成一个简单的 GIF 来进行调试
       - uses: Platane/snk@v3
         id: snake-gif
         with:
           github_user_name: wangzaiwang-hub
-          # 我们在这里为蛇和贡献点精确指定了5种颜色，符合文档要求
-          outputs: |
-            dist/github-snake-dark.svg?color_snake=40c463&color_dots=#161b22,#9be9a8,#40c463,#30a14e,#216e39
-            dist/github-snake-light.svg?color_snake=216e39&color_dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39
+          outputs: dist/github-snake.gif?color_snake=green
 
-      # 将生成的文件推送到 'output' 分支
+      # 推送文件
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
