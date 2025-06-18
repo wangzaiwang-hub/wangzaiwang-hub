@@ -114,31 +114,7 @@
   </picture>
 </div>
 
-<div align="center">
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=wangzaiwang-hub&repo=WETools&theme=transparent&hide_border=true&title_color=00fff0&text_color=ff00cc&icon_color=00fff0&bg_color=00000000"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=wangzaiwang-hub&repo=WETools&theme=transparent&hide_border=true&title_color=00fff0&text_color=ff00cc&icon_color=00fff0&bg_color=ffffff"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=wangzaiwang-hub&repo=WETools&theme=transparent&hide_border=true&title_color=00fff0&text_color=ff00cc&icon_color=00fff0" />
-  </picture>
 
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=wangzaiwang-hub&repo=49game&theme=transparent&hide_border=true&title_color=00fff0&text_color=ff00cc&icon_color=00fff0&bg_color=00000000"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=wangzaiwang-hub&repo=49game&theme=transparent&hide_border=true&title_color=00fff0&text_color=ff00cc&icon_color=00fff0&bg_color=ffffff"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=wangzaiwang-hub&repo=49game&theme=transparent&hide_border=true&title_color=00fff0&text_color=ff00cc&icon_color=00fff0" />
-  </picture>
-</div>
 
 ---
 
@@ -151,7 +127,19 @@
 </p>
 
 ---
-
+<p align="center">
+  <picture>
+    <source
+      srcset="https://raw.githubusercontent.com/wangzaiwang-hub/wangzaiwang-hub/output/github-snake-dark.svg"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://raw.githubusercontent.com/wangzaiwang-hub/wangzaiwang-hub/output/github-snake-light.svg"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://raw.githubusercontent.com/wangzaiwang-hub/wangzaiwang-hub/output/github-snake-light.svg" alt="github contribution snake"/>
+  </picture>
+</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=wangzaiwang-hub&style=flat-square" alt="Profile Views"/>
 </p>
