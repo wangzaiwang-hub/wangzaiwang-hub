@@ -86,6 +86,10 @@
 ---
 
 <h3 align="center">🛠️ 技术栈 | Technology Stack</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/wangzaiwang-hub/wangzaiwang-hub/output/github-snake.gif" alt="github contribution snake"/>
+</p>
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
@@ -94,9 +98,9 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://raw.githubusercontent.com/wangzaiwang-hub/wangzaiwang-hub/output/github-snake.gif" alt="github contribution snake"/>
-</p>
+
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=wangzaiwang-hub&style=flat-square" alt="Profile Views"/>
 </p>
+
