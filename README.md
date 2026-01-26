@@ -23,23 +23,155 @@
 
 ---
 
-<h3 align="center">✨ 代表项目 | Featured Projects</h3>
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://wetools.wctw.fun/"><b>WETools</b></a><br>
-      <sub>小而美的微信效率工具箱</sub>
-    </td>
-    <td align="center">
-      <a href="https://49game.wctw.fun/"><b>反人类调节音量游戏</b></a><br>
-      <sub>趣味的音量控制小游戏</sub>
-    </td>
-    <td align="center">
-      <a href="https://blog.wctw.fun/"><b>个人博客</b></a><br>
-      <sub>成长与思考的记录</sub>
-    </td>
-  </tr>
+<div align="center">
+
+## 🚀 Projects Showcase
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,18,20,24&height=2&section=header" width="100%"/>
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:00fff0,100:00ccff&height=40&text=WETools&fontColor=ffffff&fontSize=25&fontAlignY=50&animation=fadeIn" width="100%"/>
+
+**工具生态平台**
+
+软件目录 + AI 助手 + 用户系统
+
+`React` `TypeScript` `Supabase`
+
+[![Visit](https://img.shields.io/badge/🌐_在线体验-00fff0?style=for-the-badge&logo=vercel&logoColor=white)](https://wetools.wctw.fun/)
+[![Code](https://img.shields.io/badge/�_源码-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wangzaiwang-hub/wetools)
+
+</div>
+</td>
+<td width="50%" valign="top">
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:ff00cc,100:ff66dd&height=40&text=Music%20Wallpaper&fontColor=ffffff&fontSize=25&fontAlignY=50&animation=fadeIn" width="100%"/>
+
+**桌面视听体验**
+
+动态壁纸 + 音乐播放 + 桌面组件
+
+`React` `Framer Motion` `Tailwind`
+
+[![Visit](https://img.shields.io/badge/🌐_在线体验-ff00cc?style=for-the-badge&logo=vercel&logoColor=white)](https://musicwallpaper.wctw.fun/)
+[![Code](https://img.shields.io/badge/📦_源码-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wangzaiwang-hub/we-music-wallpaper)
+
+</div>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:ffe600,100:ffaa00&height=40&text=49%20Game&fontColor=000000&fontSize=25&fontAlignY=50&animation=fadeIn" width="100%"/>
+
+**创意交互游戏**
+
+音量控制小游戏 + 流畅动画
+
+`React` `Framer Motion`
+
+[![Visit](https://img.shields.io/badge/🌐_在线体验-ffe600?style=for-the-badge&logo=vercel&logoColor=black)](https://49game.wctw.fun/)
+[![Code](https://img.shields.io/badge/📦_源码-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wangzaiwang-hub/game)
+
+</div>
+</td>
+<td width="50%" valign="top">
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:9b59b6,100:bb77dd&height=40&text=QuickPeekTV&fontColor=ffffff&fontSize=25&fontAlignY=50&animation=fadeIn" width="100%"/>
+
+**Electron 迷你浏览器**
+
+BrowserView 嵌入 + 置顶窗口
+
+`Electron` `electron-store`
+
+[![Code](https://img.shields.io/badge/📦_源码-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wangzaiwang-hub/QuickPeekTV)
+
+</div>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:e74c3c,100:ff6b6b&height=40&text=Sales%20Forecasting&fontColor=ffffff&fontSize=25&fontAlignY=50&animation=fadeIn" width="100%"/>
+
+**商品销量预测系统**
+
+ML 模型 + 可视化大屏 + 库存预警
+
+`Flask` `Python ML` `Vue3` `ECharts`
+
+[![Code](https://img.shields.io/badge/📦_源码-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wangzaiwang-hub/Product_Sales-Forecasting_System)
+
+</div>
+</td>
+<td width="50%" valign="top">
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:3498db,100:5dade2&height=40&text=Smart%20Robot&fontColor=ffffff&fontSize=25&fontAlignY=50&animation=fadeIn" width="100%"/>
+
+**边缘 AI 智能监护**
+
+跌倒检测 + 情绪识别 + 眼球追踪
+
+`PyTorch` `OpenCV` `Flask` `Vue3`
+
+[![Code](https://img.shields.io/badge/📦_源码-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wangzaiwang-hub/Smart_Home_Robot)
+
+</div>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:16a085,100:48c9b0&height=40&text=Blog&fontColor=ffffff&fontSize=25&fontAlignY=50&animation=fadeIn" width="100%"/>
+
+**个人博客**
+
+技术分享 + 项目文档
+
+`Markdown` `版本管理`
+
+[![Visit](https://img.shields.io/badge/🌐_在线访问-16a085?style=for-the-badge&logo=vercel&logoColor=white)](https://blog.wctw.fun/)
+[![Code](https://img.shields.io/badge/📦_源码-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wangzaiwang-hub/blog)
+
+</div>
+</td>
+<td width="50%" valign="top">
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:f39c12,100:f1c40f&height=40&text=FishGame&fontColor=000000&fontSize=25&fontAlignY=50&animation=fadeIn" width="100%"/>
+
+**教育类小游戏**
+
+四/六级词汇库 + 纯前端
+
+`JavaScript` `HTML` `CSS`
+
+[![Code](https://img.shields.io/badge/📦_源码-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wangzaiwang-hub/fishgame)
+
+</div>
+</td>
+</tr>
 </table>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,18,20,24&height=2&section=footer" width="100%"/>
+
+</div>
+
 
 ---
 <table align="center">
