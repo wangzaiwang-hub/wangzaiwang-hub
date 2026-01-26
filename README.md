@@ -8,9 +8,9 @@
 
 <p align="center">
   <a href="mailto:junqianxi.hub@gmail.com"><img src="https://img.shields.io/badge/Email-junqianxi.hub@gmail.com-ff69b4?style=flat-square&logo=gmail"></a>
-  <a href="https://wetools.wctw.fun/"><img src="https://img.shields.io/badge/WETools-Online-brightgreen?style=flat-square"></a>
-  <a href="https://49game.wctw.fun/"><img src="https://img.shields.io/badge/%E5%8F%8D%E4%BA%BA%E7%B1%BB%E8%B0%83%E8%8A%82%E9%9F%B3%E9%87%8F%E6%B8%B8%E6%88%8F-Online-orange?style=flat-square"></a>
-  <a href="https://blog.wctw.fun/"><img src="https://img.shields.io/badge/Blog-%E5%8D%9A%E5%AE%A2-blueviolet?style=flat-square"></a>
+  <a href="https://wetools.wctw.top/"><img src="https://img.shields.io/badge/WETools-Online-brightgreen?style=flat-square"></a>
+  <a href="https://49game.wctw.top/"><img src="https://img.shields.io/badge/%E5%8F%8D%E4%BA%BA%E7%B1%BB%E8%B0%83%E8%8A%82%E9%9F%B3%E9%87%8F%E6%B8%B8%E6%88%8F-Online-orange?style=flat-square"></a>
+  <a href="https://blog.wctw.top/"><img src="https://img.shields.io/badge/Blog-%E5%8D%9A%E5%AE%A2-blueviolet?style=flat-square"></a>
   <a href="https://mp.weixin.qq.com/s?__biz=MzI4MzczODY0Mw==&mid=2247483693&idx=1&sn=ca8c0f9e9f0f63e72f9d8cbe8aa7e2c5"><img src="https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7-wctw.hub-07c160?style=flat-square&logo=wechat"></a>
 </p>
 
@@ -44,7 +44,7 @@
 
 `React` `TypeScript` `Supabase`
 
-[![Visit](https://img.shields.io/badge/🌐_在线体验-00fff0?style=for-the-badge&logo=vercel&logoColor=white)](https://wetools.wctw.fun/)
+[![Visit](https://img.shields.io/badge/🌐_在线体验-00fff0?style=for-the-badge&logo=vercel&logoColor=white)](https://wetools.wctw.top/)
 [![Code](https://img.shields.io/badge/�_源码-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wangzaiwang-hub/wetools)
 
 </div>
@@ -60,7 +60,7 @@
 
 `React` `Framer Motion` `Tailwind`
 
-[![Visit](https://img.shields.io/badge/🌐_在线体验-ff00cc?style=for-the-badge&logo=vercel&logoColor=white)](https://musicwallpaper.wctw.fun/)
+[![Visit](https://img.shields.io/badge/🌐_在线体验-ff00cc?style=for-the-badge&logo=vercel&logoColor=white)](https://musicwallpaper.wctw.top/)
 [![Code](https://img.shields.io/badge/📦_源码-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wangzaiwang-hub/we-music-wallpaper)
 
 </div>
@@ -78,7 +78,7 @@
 
 `React` `Framer Motion`
 
-[![Visit](https://img.shields.io/badge/🌐_在线体验-ffe600?style=for-the-badge&logo=vercel&logoColor=black)](https://49game.wctw.fun/)
+[![Visit](https://img.shields.io/badge/🌐_在线体验-ffe600?style=for-the-badge&logo=vercel&logoColor=black)](https://49game.wctw.top/)
 [![Code](https://img.shields.io/badge/📦_源码-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wangzaiwang-hub/game)
 
 </div>
@@ -143,7 +143,7 @@ ML 模型 + 可视化大屏 + 库存预警
 
 `Markdown` `版本管理`
 
-[![Visit](https://img.shields.io/badge/🌐_在线访问-16a085?style=for-the-badge&logo=vercel&logoColor=white)](https://blog.wctw.fun/)
+[![Visit](https://img.shields.io/badge/🌐_在线访问-16a085?style=for-the-badge&logo=vercel&logoColor=white)](https://blog.wctw.top/)
 [![Code](https://img.shields.io/badge/📦_源码-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wangzaiwang-hub/blog)
 
 </div>
